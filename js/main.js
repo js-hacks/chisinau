@@ -36,7 +36,7 @@ $(document).ready(function(){
 		doScroll(e, $(this), "#service")
 	})
 	$('[href="/#partners"]').click(function(e){
-		doScroll(e, $(this), "#partners")
+		doScroll(e, $(this), "#clients-logo-section")
 	})
 	$('[href="/#contact"]').click(function(e){
 		doScroll(e, $(this), "#register")
